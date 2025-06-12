@@ -25,7 +25,7 @@ The pipeline is demonstrated on a **Solar System research paper**, performing re
   Performs Retrieval-Augmented Generation over a **Solar System** research paper.
 
 - **Web Crawler Node**  
-  Uses `serpapi` or similar tools to fetch **real-time data** from the web.
+  Uses `Tavily` or similar tools to fetch **real-time data** from the web.
 
 - **Validation Node**  
   Evaluates the generated output for correctness, completeness, and factuality.  
@@ -51,7 +51,7 @@ The pipeline is demonstrated on a **Solar System research paper**, performing re
 ## 📚 Dataset / Document
 
 - The RAG component is built on a **Solar System research paper**.
-- The paper is chunked, embedded, and stored in a vector store (e.g., `Chroma`).
+- The paper is chunked, embedded, and stored in a vector store.
 
 ---
 
@@ -60,8 +60,8 @@ The pipeline is demonstrated on a **Solar System research paper**, performing re
 - **LangGraph**
 - **LangChain**
 - **Google Gemini API**
-- **Chroma VectorDB**
-- **BeautifulSoup / SerpAPI** for web scraping
+- **Pinecone VectorDB**
+- **Tavily** for web scraping
 - **Python 3.11**
 - **VSCode with Miniconda**
 
