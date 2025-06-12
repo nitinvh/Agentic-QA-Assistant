@@ -1,4 +1,4 @@
-# 🛰️ Assignment 4: Multimodal RAG Pipeline with Supervision, Validation & Real-time Search
+# 🛰️ Assignment 4: RAG Pipeline with Supervision, Validation & Real-time Search
 
 ## 📌 Objective
 
