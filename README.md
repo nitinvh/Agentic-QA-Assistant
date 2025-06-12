@@ -67,5 +67,8 @@ The pipeline is demonstrated on a **Solar System research paper**, performing re
 
 ---
 
-## 🗂️ Repository Structure
+## Streamlit UI Sample
+![alt text](image-1.png)
+
+
 
